@@ -28,7 +28,7 @@ Asegúrate de tener Python instalado en tu computadora. Abre la terminal dentro 
 
 ```bash
 python main.py
-
+```
 🗺️ Hoja de Ruta (Roadmap)
 Este repositorio evolucionará a medida que avance en el aprendizaje de Python:
 
