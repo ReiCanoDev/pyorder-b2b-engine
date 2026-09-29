@@ -29,13 +29,13 @@ Asegúrate de tener Python instalado en tu computadora. Abre la terminal dentro 
 ```bash
 python main.py
 ```
-🗺️ Hoja de Ruta (Roadmap)
+## 🗺️ Hoja de Ruta (Roadmap)
 Este repositorio evolucionará a medida que avance en el aprendizaje de Python:
 
-[x] v1.0 (Actual): Script transaccional único (estructuras de datos, condicionales).
+- [x] v1.0 (Actual): Script transaccional único (estructuras de datos, condicionales).
 
-[ ] v2.0: Implementación de bucles (while/for) para procesar múltiples órdenes continuas.
+- [ ] v2.0: Implementación de bucles (while/for) para procesar múltiples órdenes continuas.
 
-[ ] v3.0: Refactorización con funciones (def) para código modular y manejo de errores (try/except).
+- [ ] v3.0: Refactorización con funciones (def) para código modular y manejo de errores (try/except).
 
-[ ] v4.0: Persistencia de datos (lectura y guardado en JSON/CSV) y Programación Orientada a Objetos (POO).
+- [ ] v4.0: Persistencia de datos (lectura y guardado en JSON/CSV) y Programación Orientada a Objetos (POO).
